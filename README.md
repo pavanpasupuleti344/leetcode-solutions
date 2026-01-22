@@ -9,6 +9,7 @@ this repository contains my leetcode submissions on DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
@@ -57,4 +58,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
