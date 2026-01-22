@@ -9,6 +9,7 @@ this repository contains my leetcode submissions on DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -27,6 +28,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
@@ -98,5 +100,6 @@ this repository contains my leetcode submissions on DSA
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
