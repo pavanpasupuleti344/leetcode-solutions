@@ -30,6 +30,7 @@ this repository contains my leetcode submissions on DSA
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -59,6 +60,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
@@ -69,6 +71,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
