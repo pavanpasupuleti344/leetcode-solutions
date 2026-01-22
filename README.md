@@ -60,6 +60,7 @@ this repository contains my leetcode submissions on DSA
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
