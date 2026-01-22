@@ -13,6 +13,7 @@ this repository contains my leetcode submissions on DSA
 | [0152-maximum-product-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
+| [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Hash Table
@@ -66,4 +67,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0137-single-number-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
 <!---LeetCode Topics End-->
