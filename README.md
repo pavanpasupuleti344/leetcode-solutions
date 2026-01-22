@@ -11,6 +11,7 @@ this repository contains my leetcode submissions on DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
@@ -20,6 +21,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Binary Search
@@ -71,4 +73,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
