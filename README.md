@@ -131,4 +131,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
