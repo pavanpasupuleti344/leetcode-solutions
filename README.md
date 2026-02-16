@@ -56,6 +56,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [0029-divide-two-integers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
