@@ -139,6 +139,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0608-tree-node](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
