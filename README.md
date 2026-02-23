@@ -72,6 +72,7 @@ this repository contains my leetcode submissions on DSA
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -89,6 +90,7 @@ this repository contains my leetcode submissions on DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Greedy
@@ -118,6 +120,7 @@ this repository contains my leetcode submissions on DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
