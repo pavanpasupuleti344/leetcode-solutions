@@ -151,6 +151,7 @@ this repository contains my leetcode submissions on DSA
 | [0610-triangle-judgement](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1729-find-followers-count](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Backtracking
 |  |
