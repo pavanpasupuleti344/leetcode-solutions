@@ -147,6 +147,7 @@ this repository contains my leetcode submissions on DSA
 | [0183-customers-who-never-order](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0610-triangle-judgement) |
 | [1045-customers-who-bought-all-products](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1045-customers-who-bought-all-products) |
