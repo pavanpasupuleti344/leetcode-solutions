@@ -81,6 +81,7 @@ this repository contains my leetcode submissions on DSA
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Counting
 |  |
