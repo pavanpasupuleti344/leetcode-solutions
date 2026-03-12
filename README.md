@@ -40,6 +40,7 @@ this repository contains my leetcode submissions on DSA
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Binary Search
@@ -87,10 +88,12 @@ this repository contains my leetcode submissions on DSA
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Counting
 |  |
 | ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Enumeration
 |  |
