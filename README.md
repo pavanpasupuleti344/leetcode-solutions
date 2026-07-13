@@ -73,6 +73,7 @@ this repository contains my leetcode submissions on DSA
 | [0029-divide-two-integers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
+| [0728-self-dividing-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
