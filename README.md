@@ -75,6 +75,7 @@ this repository contains my leetcode submissions on DSA
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
 | [0728-self-dividing-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## String
