@@ -105,6 +105,7 @@ this repository contains my leetcode submissions on DSA
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 ## Dynamic Programming
 |  |
