@@ -18,9 +18,9 @@ class Solution:
             for i in range(right,left-1,-1):
                 l.append(matrix[bottom][i])
             bottom=bottom-1
-            if(top>bottom):break
+            # if(top>bottom):break
             for i in range(bottom,top-1,-1):
                 l.append(matrix[i][left])
             left=left+1
-            if(right<left):break
+            # if(right<left):break
         return l
