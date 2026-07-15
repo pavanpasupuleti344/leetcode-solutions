@@ -6,11 +6,12 @@ class Solution:
         while(i<j):
             s=nums[i]+nums[j]
             if s==target:
-                l.append(i+1)
-                l.append(j+1)
-                break
+                return [i+1,j+1]
+                # l.append(i+1)
+                # l.append(j+1)
+                # break
             elif(s>target):
                 j-=1
             else:
                 i+=1
-        return l
+        return []
