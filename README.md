@@ -24,6 +24,7 @@ this repository contains my leetcode submissions on DSA
 | [0152-maximum-product-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -164,6 +165,7 @@ this repository contains my leetcode submissions on DSA
 | [0125-valid-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Matrix
