@@ -9,5 +9,5 @@ class Solution:
         for j in range(i+1,len(nums)):
             if(nums[j]!=0):
                 nums[i],nums[j]=nums[j],nums[i]
-            i=nums.index(0)
+                i=nums.index(0)
         return nums
