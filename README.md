@@ -33,6 +33,7 @@ this repository contains my leetcode submissions on DSA
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1550-three-consecutive-odds](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -178,6 +179,7 @@ this repository contains my leetcode submissions on DSA
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
@@ -188,6 +190,7 @@ this repository contains my leetcode submissions on DSA
 | [0657-robot-return-to-origin](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
 | ------- |
