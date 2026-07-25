@@ -88,6 +88,7 @@ this repository contains my leetcode submissions on DSA
 | [0728-self-dividing-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3536-maximum-product-of-two-digits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## String
@@ -159,6 +160,7 @@ this repository contains my leetcode submissions on DSA
 | [0075-sort-colors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
