@@ -51,6 +51,7 @@ this repository contains my leetcode submissions on DSA
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -104,6 +105,7 @@ this repository contains my leetcode submissions on DSA
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -160,6 +162,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [0015-3sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
