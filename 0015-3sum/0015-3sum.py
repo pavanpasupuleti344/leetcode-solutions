@@ -14,6 +14,10 @@ class Solution:
                     s.add(tu)
                     j+=1
                     k-=1
+                    while j<k and nums[j]==nums[j-1]:
+                        j+=1
+                    while j<k and nums[k]==nums[k+1]:
+                        k-=1
                 elif ((nums[j]+nums[k])>t):
                     k-=1
                 else:
