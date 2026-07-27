@@ -1,7 +1,8 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
-        s=set()
+        # s=set()
+        s=[]
         for i in range(0,(len(nums)-2)):
             if(i!=0):
                 if nums[i]==nums[i-1] : continue
@@ -10,8 +11,9 @@ class Solution:
             k=len(nums)-1
             while j<k:
                 if ((nums[j]+nums[k])==t):
-                    tu=(nums[i],nums[j],nums[k])
-                    s.add(tu)
+                    # tu=(nums[i],nums[j],nums[k])
+                    tu=[nums[i],nums[j],nums[k]]
+                    s.append(tu)
                     j+=1
                     k-=1
                     while j<k and nums[j]==nums[j-1]:
@@ -22,4 +24,5 @@ class Solution:
                     k-=1
                 else:
                     j+=1
-        return list(map(list,s))
+        # return list(map(list,s))
+        return s
