@@ -122,6 +122,7 @@ this repository contains my leetcode submissions on DSA
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Counting
@@ -243,6 +244,7 @@ this repository contains my leetcode submissions on DSA
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
