@@ -77,6 +77,7 @@ this repository contains my leetcode submissions on DSA
 | [0162-find-peak-element](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -84,6 +85,7 @@ this repository contains my leetcode submissions on DSA
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
