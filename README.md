@@ -28,6 +28,7 @@ this repository contains my leetcode submissions on DSA
 | [0162-find-peak-element](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -170,6 +171,7 @@ this repository contains my leetcode submissions on DSA
 | [0029-divide-two-integers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0260-single-number-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
