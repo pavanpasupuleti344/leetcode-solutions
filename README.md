@@ -40,6 +40,7 @@ this repository contains my leetcode submissions on DSA
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -89,6 +90,7 @@ this repository contains my leetcode submissions on DSA
 | [0278-first-bad-version](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 ## Interactive
