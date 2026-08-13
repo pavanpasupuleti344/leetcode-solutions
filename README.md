@@ -35,6 +35,7 @@ this repository contains my leetcode submissions on DSA
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -89,6 +90,7 @@ this repository contains my leetcode submissions on DSA
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
