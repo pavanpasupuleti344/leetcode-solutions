@@ -71,6 +71,7 @@ this repository contains my leetcode submissions on DSA
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
@@ -145,6 +146,7 @@ this repository contains my leetcode submissions on DSA
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Counting
@@ -275,6 +277,7 @@ this repository contains my leetcode submissions on DSA
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
