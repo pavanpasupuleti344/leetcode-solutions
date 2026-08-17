@@ -16,6 +16,7 @@ this repository contains my leetcode submissions on DSA
 | [0035-search-insert-position](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -109,6 +110,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
@@ -170,6 +172,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
