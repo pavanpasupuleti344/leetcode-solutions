@@ -76,6 +76,7 @@ this repository contains my leetcode submissions on DSA
 | [0128-longest-consecutive-sequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -151,6 +152,7 @@ this repository contains my leetcode submissions on DSA
 | [0345-reverse-vowels-of-a-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -294,6 +296,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
