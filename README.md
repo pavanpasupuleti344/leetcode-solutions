@@ -46,6 +46,7 @@ this repository contains my leetcode submissions on DSA
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -213,6 +214,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
