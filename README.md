@@ -59,6 +59,7 @@ this repository contains my leetcode submissions on DSA
 | [1390-four-divisors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
+| [1572-matrix-diagonal-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -265,6 +266,7 @@ this repository contains my leetcode submissions on DSA
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Simulation
 |  |
