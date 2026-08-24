@@ -17,3 +17,4 @@ class Solution:
         #         return False
         # return True
         # it is right trying another way
+        
