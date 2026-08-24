@@ -66,6 +66,7 @@ this repository contains my leetcode submissions on DSA
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
@@ -93,6 +94,7 @@ this repository contains my leetcode submissions on DSA
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -188,6 +190,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
@@ -248,6 +251,7 @@ this repository contains my leetcode submissions on DSA
 | [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3731-find-missing-elements) |
