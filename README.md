@@ -93,6 +93,7 @@ this repository contains my leetcode submissions on DSA
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -177,6 +178,7 @@ this repository contains my leetcode submissions on DSA
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -186,6 +188,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
 ## Enumeration
@@ -222,6 +225,7 @@ this repository contains my leetcode submissions on DSA
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
