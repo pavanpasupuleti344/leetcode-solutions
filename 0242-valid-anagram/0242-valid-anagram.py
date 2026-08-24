@@ -1,9 +1,8 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        a=list(s)
-        a.sort()
-        b=list(t)
-        b.sort()
-        print(a)
-        print(b)
-        return ("".join(a))==("".join(b))
+        if len(s)!=len(t):return False
+        d={}
+        for i in range(len(s)):
+            d[s[i]]=d.get(s[i],0)+1
+            d[t[i]]=d.get(t[i],0)-1
+        return all(x==0 for x in d.values())
