@@ -48,6 +48,7 @@ this repository contains my leetcode submissions on DSA
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -116,6 +117,7 @@ this repository contains my leetcode submissions on DSA
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
