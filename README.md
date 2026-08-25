@@ -54,6 +54,7 @@ this repository contains my leetcode submissions on DSA
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -254,6 +255,7 @@ this repository contains my leetcode submissions on DSA
 | [0075-sort-colors](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -279,6 +281,7 @@ this repository contains my leetcode submissions on DSA
 | [0392-is-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
