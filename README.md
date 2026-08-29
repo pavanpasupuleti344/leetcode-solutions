@@ -41,6 +41,7 @@ this repository contains my leetcode submissions on DSA
 | [0283-move-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -245,6 +246,7 @@ this repository contains my leetcode submissions on DSA
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -298,6 +300,7 @@ this repository contains my leetcode submissions on DSA
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -370,4 +373,5 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
