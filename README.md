@@ -72,6 +72,7 @@ this repository contains my leetcode submissions on DSA
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -255,6 +256,7 @@ this repository contains my leetcode submissions on DSA
 | [1248-count-number-of-nice-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
 ## Sorting
 |  |
