@@ -83,6 +83,7 @@ this repository contains my leetcode submissions on DSA
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
 | [3804-number-of-centered-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3804-number-of-centered-subarrays) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ this repository contains my leetcode submissions on DSA
 | [1732-find-the-highest-altitude](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3788-maximum-score-of-a-split](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3788-maximum-score-of-a-split) |
+| [3903-smallest-stable-index-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
