@@ -60,6 +60,7 @@ this repository contains my leetcode submissions on DSA
 | [0977-squares-of-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -256,6 +257,7 @@ this repository contains my leetcode submissions on DSA
 | [0560-subarray-sum-equals-k](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -274,6 +276,7 @@ this repository contains my leetcode submissions on DSA
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -323,6 +326,7 @@ this repository contains my leetcode submissions on DSA
 | [0657-robot-return-to-origin](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Recursion
 |  |
@@ -389,4 +393,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
