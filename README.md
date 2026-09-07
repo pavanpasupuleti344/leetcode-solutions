@@ -370,6 +370,7 @@ this repository contains my leetcode submissions on DSA
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Manacher
@@ -387,6 +388,7 @@ this repository contains my leetcode submissions on DSA
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Monotonic Stack
