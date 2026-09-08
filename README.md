@@ -177,6 +177,7 @@ this repository contains my leetcode submissions on DSA
 | [0008-string-to-integer-atoi](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -370,6 +371,7 @@ this repository contains my leetcode submissions on DSA
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -399,4 +401,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
