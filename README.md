@@ -171,6 +171,7 @@ this repository contains my leetcode submissions on DSA
 | [3536-maximum-product-of-two-digits](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3805-count-caesar-cipher-pairs](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3805-count-caesar-cipher-pairs) |
+| [3871-count-commas-in-range-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
 | ------- |
