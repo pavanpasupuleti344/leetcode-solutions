@@ -19,6 +19,7 @@ this repository contains my leetcode submissions on DSA
 | [0049-group-anagrams](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -229,6 +230,7 @@ this repository contains my leetcode submissions on DSA
 | [0005-longest-palindromic-substring](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -238,6 +240,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
