@@ -51,6 +51,7 @@ this repository contains my leetcode submissions on DSA
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -411,6 +412,7 @@ this repository contains my leetcode submissions on DSA
 | [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -424,4 +426,12 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
