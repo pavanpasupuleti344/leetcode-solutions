@@ -199,6 +199,7 @@ this repository contains my leetcode submissions on DSA
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1446-consecutive-characters) |
@@ -249,6 +250,7 @@ this repository contains my leetcode submissions on DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
@@ -436,5 +438,6 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
