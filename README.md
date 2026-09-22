@@ -81,6 +81,7 @@ this repository contains my leetcode submissions on DSA
 | [1732-find-the-highest-altitude](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2090-k-radius-subarray-averages](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -344,6 +345,7 @@ this repository contains my leetcode submissions on DSA
 | [0867-transpose-matrix](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Recursion
 |  |
 | ------- |
@@ -434,4 +436,5 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
