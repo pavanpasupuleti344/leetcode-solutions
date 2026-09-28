@@ -8,7 +8,7 @@ class Solution:
             q.append(i)
         ans.append(nums[q[0]])
         for i in range(k,len(nums)):
-            while q and q[0]<=i-k:
+            if q and q[0]<=i-k:
                 q.popleft()
             while q and nums[q[-1]]<nums[i]:
                 q.pop()
