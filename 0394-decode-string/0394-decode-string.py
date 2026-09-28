@@ -1,7 +1,7 @@
 class Solution:
     def decodeString(self, s: str) -> str:
         stack=[]
-        o=0
+        # o=0
         for c in s:
             if c.isdigit():
                 # if len(stack)==0:
@@ -14,13 +14,13 @@ class Solution:
                     
             elif c=='[':
                 stack.append(c)
-                o+=1
+                # o+=1
             elif c==']':
-                while o>0:
+                while True:
                     print(stack)
                     if stack[-1][0]=='[':
                         stack[-2]*=stack[-1][1:]
-                        o-=1
+                        # o-=1
                         stack.pop()
                         print('finnally      ',stack)
                         break
