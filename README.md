@@ -39,6 +39,7 @@ this repository contains my leetcode submissions on DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -380,6 +381,7 @@ this repository contains my leetcode submissions on DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -430,6 +432,7 @@ this repository contains my leetcode submissions on DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1094-car-pooling](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Bracket Sequences
 |  |
@@ -443,8 +446,17 @@ this repository contains my leetcode submissions on DSA
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
