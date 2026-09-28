@@ -197,6 +197,7 @@ this repository contains my leetcode submissions on DSA
 | [0344-reverse-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -353,6 +354,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
 ## Database
 |  |
 | ------- |
@@ -394,6 +396,7 @@ this repository contains my leetcode submissions on DSA
 | [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0739-daily-temperatures) |
