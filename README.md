@@ -325,6 +325,7 @@ this repository contains my leetcode submissions on DSA
 | [0557-reverse-words-in-a-string-iii](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
@@ -445,6 +446,7 @@ this repository contains my leetcode submissions on DSA
 | [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Queue
 |  |
 | ------- |
