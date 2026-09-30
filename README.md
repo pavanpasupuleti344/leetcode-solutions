@@ -355,6 +355,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
 ## Database
 |  |
@@ -441,6 +442,7 @@ this repository contains my leetcode submissions on DSA
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
 ## Queue
