@@ -165,6 +165,7 @@ this repository contains my leetcode submissions on DSA
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0029-divide-two-integers) |
@@ -355,6 +356,7 @@ this repository contains my leetcode submissions on DSA
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
@@ -443,6 +445,7 @@ this repository contains my leetcode submissions on DSA
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
