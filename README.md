@@ -319,6 +319,7 @@ this repository contains my leetcode submissions on DSA
 | [0151-reverse-words-in-a-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -361,6 +362,7 @@ this repository contains my leetcode submissions on DSA
 | [0050-powx-n](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
 ## Database
 |  |
@@ -405,6 +407,7 @@ this repository contains my leetcode submissions on DSA
 | [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -451,6 +454,7 @@ this repository contains my leetcode submissions on DSA
 | [0002-add-two-numbers](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
