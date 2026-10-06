@@ -48,6 +48,7 @@ this repository contains my leetcode submissions on DSA
 | [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +109,7 @@ this repository contains my leetcode submissions on DSA
 | [0242-valid-anagram](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
@@ -409,6 +411,7 @@ this repository contains my leetcode submissions on DSA
 | [0155-min-stack](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -437,6 +440,7 @@ this repository contains my leetcode submissions on DSA
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
