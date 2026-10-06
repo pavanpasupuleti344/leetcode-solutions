@@ -208,6 +208,7 @@ this repository contains my leetcode submissions on DSA
 | [0567-permutation-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1446-consecutive-characters](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -258,6 +259,7 @@ this repository contains my leetcode submissions on DSA
 | [0409-longest-palindrome](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2007-find-original-array-from-doubled-array) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Bit Manipulation
@@ -415,6 +417,7 @@ this repository contains my leetcode submissions on DSA
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/1544-make-the-string-great) |
 ## Manacher
@@ -453,6 +456,7 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
