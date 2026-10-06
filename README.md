@@ -437,6 +437,7 @@ this repository contains my leetcode submissions on DSA
 | [0304-range-sum-query-2d-immutable](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -469,6 +470,7 @@ this repository contains my leetcode submissions on DSA
 | [0622-design-circular-queue](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
@@ -478,4 +480,8 @@ this repository contains my leetcode submissions on DSA
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/pavanpasupuleti344/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
